@@ -1,5 +1,5 @@
 ### Hi there 👋
-I´m a Frontend Developer at Jensen YH in Gothenburg, graduation: june 2023
+I´m a Frontend Developer based in Gothenburg, Sweden.
 
 For contact, check out my Linkedin profile:
 https://www.linkedin.com/in/ann-helen-lausmaa/
