@@ -5,5 +5,3 @@ I´m a Frontend Developer and now also a .NET developer student based in Gothenb
 
 For contact, check out my Linkedin profile:
 https://www.linkedin.com/in/ann-helen-lausmaa/
-or webpage:
-https://ahlv.se
